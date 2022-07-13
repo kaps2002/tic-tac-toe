@@ -6,7 +6,7 @@ const Board =()=> {
             <div>
                 <Square value={0} />
                 <Square value={1} />
-                <Square value={2}/>
+                <Square value={2} />
             </div>
             <div>
                 <Square value={3}/>
